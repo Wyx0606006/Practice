@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 
 if __name__=='__main__':
-    image_file = 'son.png'
+    image_file = 'lena.png'
     height = 100
 
     img = Image.open(image_file)
